@@ -1,0 +1,38 @@
+[
+	{
+		"title": "hol2",
+		"description": "hola TV LG 40\"",
+		"price": 1500,
+		"thumbnail": "imagen.jpg",
+		"code": "675463",
+		"stock": 15,
+		"id": 1
+	},
+	{
+		"title": "Ford Ranger",
+		"description": "Ford Ranger",
+		"price": 15000,
+		"thumbnail": "imagen.jpg",
+		"code": "1244h143g32",
+		"stock": 1,
+		"id": 2
+	},
+	{
+		"title": "Chevrolet Corsa",
+		"description": "Chevrolet Corsa modelo 2005",
+		"price": 3000,
+		"thumbnail": "imagen.jpg",
+		"code": "27437814",
+		"stock": 2,
+		"id": 3
+	},
+	{
+		"title": "Chevrolet Corsa",
+		"description": "Chevrolet Corsa modelo 2005",
+		"price": 3000,
+		"thumbnail": "imagen.jpg",
+		"code": "2743781458",
+		"stock": 2,
+		"id": 4
+	}
+]
