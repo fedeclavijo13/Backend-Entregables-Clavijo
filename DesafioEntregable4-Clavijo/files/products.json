@@ -1,0 +1,35 @@
+[
+	{
+		"title": "Marvel T-Shirt Men",
+		"description": "White T-Shirt with red Marvel logo",
+		"price": 499,
+		"thumbnail": "https://f.fcdn.app/imgs/16f738/www.otherside.com.uy/osiduy/fbeb/webp/catalogo/230473-6-1/2000-2000/t-shirt-de-hombre-marvel-blanco.jpg",
+		"code": 1111,
+		"stock": 15,
+		"id": 1,
+		"status": true,
+		"category": "shirts"
+	},
+	{
+		"title": "Ironman T-Shirt Men",
+		"description": "Red T-SHirt with Ironman logo",
+		"price": 599,
+		"thumbnail": "https://f.fcdn.app/imgs/00d113/www.otherside.com.uy/osiduy/b5fd/webp/catalogo/232820-48-1/2000-2000/t-shirt-de-hombre-iron-man-bordo.jpg",
+		"code": 1113,
+		"stock": 3,
+		"id": 2,
+		"status": true,
+		"category": "shirts"
+	},
+	{
+		"title": "Moon Knight T-Shirt Men",
+		"description": "Moon Knight Black T-Shirt",
+		"price": 450,
+		"thumbnail": "https://m.media-amazon.com/images/I/51jaHlNw6AL._AC_UL1000_.jpg",
+		"code": 1150,
+		"stock": 28,
+		"id": 3,
+		"status": true,
+		"category": "shirts"
+	}
+]
